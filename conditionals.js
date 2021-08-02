@@ -25,7 +25,7 @@ console.log('Now your ready to go outside')
 const isCitizen = true
 const age = 26
 
-If (isCitizen && age>18) {
+If (isCitizen && age>18);{
   console.log("You ar eligible to vote")
 }
 
