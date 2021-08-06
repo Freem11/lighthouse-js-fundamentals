@@ -25,6 +25,7 @@ function finalPosition(moves){
     }
     
   }
+  
   newPosition.push(xcord,ycord)
   return newPosition
 }
